@@ -17,17 +17,23 @@ I'm a **Data Analyst** and **AI Enthusiast** with a Bachelor's Degree in Compute
 
 ### Projects & Work
 
-- **[Classical Model Dashboard](https://github.com/shaun-mia/Classical-model-Dashboard)**: Developed a comprehensive dashboard for classical models. 
+- **[Classical Model Dashboard](https://github.com/shaun-mia/Classical-model-Dashboard)**: Developed a comprehensive dashboard for classical models.
 
   ![Classical Model Dashboard](https://github.com/shaun-mia/e-commerce-sales-data-analysis/blob/main/Canvas%20background%20image/Dashboard.png)
+  <br>
+  <sub>Classical Model Dashboard</sub>
 
 - **[E-Commerce Sales Data Analysis](https://github.com/shaun-mia/e-commerce-sales-data-analysis)**: Created a dashboard analyzing e-commerce sales data, including sales trends, customer insights, and more.
 
   ![E-Commerce Dashboard](https://github.com/shaun-mia/e-commerce-sales-data-analysis/blob/main/Canvas%20background%20image/E_Dashboard.png)
+  <br>
+  <sub>E-Commerce Sales Data Analysis</sub>
 
 - **[HR Attrition Analysis Dashboard](https://github.com/shaun-mia/Excel-dashboard-Project)**: Analyzed HR data to understand attrition patterns and improve workforce management.
 
   ![HR Attrition Dashboard](https://github.com/shaun-mia/Excel-dashboard-Project/blob/main/HR%20Attrition%20Dashboard/HR%20Attirition%20Dasgboard.png)
+  <br>
+  <sub>HR Attrition Analysis Dashboard</sub>
 
 - **[Personal Portfolio](https://shaun-mia.github.io/)**: A showcase of my work, projects, and skills.
 
