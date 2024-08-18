@@ -8,32 +8,20 @@
 
 I'm a **Data Analyst** and **AI Enthusiast** with a Bachelor's Degree in Computer Science & Engineering. I love working on real-life projects and leveraging tools like **Excel**, **Power BI**, **Python**, **SQL**, and **Machine Learning** to turn data into actionable insights.
 
-- 🌱 I’m currently honing my skills in **Machine Learning** and **Advanced Data Analysis**.
+- 🌱 Currently honing my skills in **Machine Learning** and **Advanced Data Analysis**.
 - 📊 Passionate about creating **data-driven solutions** and developing insightful **dashboards**.
-- 💻 I enjoy coding in **Python**, **Java**, and **C++**, with a focus on creating useful tools and projects.
-- 🎨 I have a knack for **graphic design** and enjoy applying these skills to enhance my projects.
+- 💻 Enjoy coding in **Python**, **Java**, and **C++**, focusing on creating useful tools and projects.
+- 🎨 Have a knack for **graphic design** and enjoy applying these skills to enhance my projects.
 
 ---
 
 ### Projects & Work
 
-- **[Classical Model Dashboard](https://github.com/shaun-mia/Classical-model-Dashboard)**: Developed a comprehensive dashboard for classical models.
+- **[Classical Model Dashboard](https://github.com/shaun-mia/Classical-model-Dashboard)**: Developed a comprehensive dashboard for classical models. This project showcases my skills in data visualization and analysis.
 
-  ![Classical Model Dashboard](https://github.com/shaun-mia/e-commerce-sales-data-analysis/blob/main/Canvas%20background%20image/Dashboard.png)
-  <br>
-  <sub>Classical Model Dashboard</sub>
-
-- **[E-Commerce Sales Data Analysis](https://github.com/shaun-mia/e-commerce-sales-data-analysis)**: Created a dashboard analyzing e-commerce sales data, including sales trends, customer insights, and more.
-
-  ![E-Commerce Dashboard](https://github.com/shaun-mia/e-commerce-sales-data-analysis/blob/main/Canvas%20background%20image/E_Dashboard.png)
-  <br>
-  <sub>E-Commerce Sales Data Analysis</sub>
+- **[E-Commerce Sales Data Analysis](https://github.com/shaun-mia/e-commerce-sales-data-analysis)**: Created a detailed dashboard analyzing e-commerce sales data, including trends and customer insights.
 
 - **[HR Attrition Analysis Dashboard](https://github.com/shaun-mia/Excel-dashboard-Project)**: Analyzed HR data to understand attrition patterns and improve workforce management.
-
-  ![HR Attrition Dashboard](https://github.com/shaun-mia/Excel-dashboard-Project/blob/main/HR%20Attrition%20Dashboard/HR%20Attirition%20Dasgboard.png)
-  <br>
-  <sub>HR Attrition Analysis Dashboard</sub>
 
 - **[Personal Portfolio](https://shaun-mia.github.io/)**: A showcase of my work, projects, and skills.
 
@@ -43,7 +31,25 @@ I'm a **Data Analyst** and **AI Enthusiast** with a Bachelor's Degree in Compute
 
 ### Skills
 
-#### Languages
+#### Data Visualization and Analysis
+- Power BI
+- Data Connectors
+- Power Query Editor
+- Appending and Merging Queries
+- Pivoting and Unpivoting Data
+- Column Charts and Slicers
+- Matrix vs Tables
+- Cards, KPI, and Gauge Charts
+- Formatting Dashboards
+
+#### Advanced Data Modeling and DAX
+- Data Modeling and Cardinality
+- Cross Filter Direction
+- Measures vs Calculated Columns
+- DAX Functions
+- Cumulative Sales and Moving Averages
+
+#### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
@@ -64,6 +70,10 @@ I'm a **Data Analyst** and **AI Enthusiast** with a Bachelor's Degree in Compute
 🔍 Problem Solving  
 🔄 Adaptability  
 🤝 Team Collaboration
+
+#### Additional Skills
+- Data Statistics
+- Analytical Thinking
 
 ---
 
