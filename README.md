@@ -20,15 +20,12 @@ I'm a **Data Analyst** and **AI Enthusiast** with a Bachelor's Degree in Compute
 
 ### Projects & Work
 
-- **[Classical Model Dashboard](https://github.com/shaun-mia/Classical-model-Dashboard)**: Developed a comprehensive dashboard for classical models. This project showcases my skills in data visualization and analysis.
+- **[Power BI Data Analysis Project](https://github.com/shaun-mia/Power-BI-Data-Analysis-Project)**: In this repository, I’m excited to share my Power BI data analysis projects. These projects showcase my ability to use Power BI for data visualization and analysis, helping to transform raw data into insightful dashboards and reports.
 
-- **[E-Commerce Sales Data Analysis](https://github.com/shaun-mia/e-commerce-sales-data-analysis)**: Created a detailed dashboard analyzing e-commerce sales data, including trends and customer insights.
+- **[SQL Data Analysis Project](https://github.com/shaun-mia/SQL-Data-Analysis-Project)**: In this repository, I’m excited to share some of the SQL data analysis projects I’ve worked on. These projects highlight my skills in using SQL to extract, clean, and analyze data.
+- **[Excel Data Analysis Project](https://github.com/shaun-mia/Excel-Data-Analysis-Project)**: In this repository, I’m excited to share my Excel data analysis projects. These projects highlight my ability to use Excel for organizing, analyzing, and visualizing data effectively.
 
-- **[HR Attrition Analysis Dashboard](https://github.com/shaun-mia/Excel-dashboard-Project)**: Analyzed HR data to understand attrition patterns and improve workforce management.
-
-- **[Personal Portfolio](https://shaun-mia.github.io/)**: A showcase of my work, projects, and skills.
-
-- **[Store Management System](#)**: A team project aimed at automating store operations.
+- **[Python Data Analysis Project](https://github.com/shaun-mia/Python-Data-Analysis-Project)**: A team project aimed at automating store operations.
 
 ---
 
