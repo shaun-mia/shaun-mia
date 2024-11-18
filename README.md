@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=shaun-mia&label=Profile%20Views&color=0e75b6&style=flat)
 # Hi there, I'm Shaun Mia! 👋
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=firefox&logoColor=white)](https://shaun-mia.github.io/) 
@@ -64,6 +65,14 @@ I'm a **Data Analyst** and **AI Enthusiast** with a Bachelor's Degree in Compute
 - 🛠️ **Certifications**: 3rd ELC from Sultan Agung Islamic University, Indonesia
 
 ---
+### 🥇 Achievements
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=shaun-mia&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=shaun-mia&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+---
 
 ### Let's Connect!
 
@@ -75,4 +84,8 @@ I’m always open to discussing new projects, ideas, or opportunities to collabo
 
 ---
 
-![](https://komarev.com/ghpvc/?username=shaun-mia&label=Profile%20Views&color=0e75b6&style=flat)
+### 📈 Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaun-mia&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
