@@ -25,8 +25,9 @@ I'm a **Data Analyst** and **AI Enthusiast** with a Bachelor's Degree in Compute
 - **[SQL Data Analysis Project](https://github.com/shaun-mia/SQL-Data-Analysis-Project)**: In this repository, I’m excited to share some of the SQL data analysis projects I’ve worked on. These projects highlight my skills in using SQL to extract, clean, and analyze data.
 - **[Excel Data Analysis Project](https://github.com/shaun-mia/Excel-Data-Analysis-Project)**: In this repository, I’m excited to share my Excel data analysis projects. These projects highlight my ability to use Excel for organizing, analyzing, and visualizing data effectively.
 
-- **[Python Data Analysis Project](https://github.com/shaun-mia/Python-Data-Analysis-Project)**: A team project aimed at automating store operations.
-
+- **[Python Data Analysis Project](https://github.com/shaun-mia/Python-Data-Analysis-Project)**: A Python data analysis project uses libraries like Pandas and Matplotlib to clean, analyze, and visualize data, uncovering trends and insights. These projects often aim to solve specific problems, such as predicting outcomes or identifying key patterns in data.
+ 
+- **[CobeBasics Resume Project](https://github.com/shaun-mia/CobeBasics-Resume-Projects)**:In this repository, I will share the CodeBasics Resume Project Challenge. This project will be added to your resume and involves using SQL, Power BI, Excel, and other necessary tools for data analysis.
 ---
 
 ### Skills
