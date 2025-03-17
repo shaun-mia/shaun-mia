@@ -1,4 +1,5 @@
-![](https://komarev.com/ghpvc/?username=shaun-mia&label=Profile%20Views&color=0e75b6&style=flat)
+![Total Views](https://komarev.com/ghpvc/?username=shaun-mia&label=Profile%20Views&color=0e75b6&style=flat)
+![Total Stars](https://img.shields.io/github/stars/shaun-mia?color=ffd700&style=flat&logo=github)
 # Hi there, I'm Shaun Mia! 👋
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=firefox&logoColor=white)](https://shaun-mia.github.io/) 
