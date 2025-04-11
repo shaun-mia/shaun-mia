@@ -2,7 +2,7 @@
 ![Total Stars](https://img.shields.io/github/stars/shaun-mia?color=ffd700&style=flat&logo=github)
 # Hi there, I'm Shaun Mia! 👋
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=firefox&logoColor=white)](https://shaun-mia.github.io/) 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=firefox&logoColor=white)](https://shaun-mia.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaun-mia/) 
 [![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@shauns_data_diaries)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shaunmia.cse@gmail.com)
@@ -81,7 +81,7 @@ I'm a **Data Analyst** and **AI Enthusiast** with a Bachelor's Degree in Compute
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nameisshaun/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaun-mia/) 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shaunmia.cse@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=firefox&logoColor=white)](https://shaun-mia.github.io/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=firefox&logoColor=white)](https://shaun-mia.netlify.app/)
 
 
 I’m always open to discussing new projects, ideas, or opportunities to collaborate. Feel free to reach out!
