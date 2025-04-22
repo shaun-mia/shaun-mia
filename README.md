@@ -4,11 +4,13 @@
 <h2 align="left">Hi, I'm Shaun Mia! 👋 A passionate Data Analyst & AI Enthusiast.</h2>
 
 ###
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
-<div align="center">
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=shaun-mia&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"/>
+<!-- GitHub Stats Card -->
+ <img height="150px" src="https://github-readme-stats.vercel.app/api?username=shaun-mia&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"/>
 
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaun-mia&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=dracula&hide_border=false"/>
+
 </div>
 
 ---
