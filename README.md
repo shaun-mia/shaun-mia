@@ -80,6 +80,11 @@ Check out my latest writings on data and analytics:
 ✒️ [Medium Blog](https://medium.com/@shaunmia)
 
 ---
+### 🎓 Professional Training & Certification  
+Browse my certifications and training records:  
+📄 [View Certifications](https://drive.google.com/drive/folders/1998P5HEAd6WtCzjhyZpVwUyAGbHH76H-?usp=drive_link)
+
+---
 ### 🥇 Achievements
 
 <div align="center">
@@ -93,7 +98,7 @@ Check out my latest writings on data and analytics:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaun-mia/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=firefox&logoColor=white)](https://shaun-mia.netlify.app/)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@ShaunMia)
+[![YouTube](https://www.youtube.com/@shauns_data_diaries)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/shaun.mia.official/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/shaunmia.cse)
 
