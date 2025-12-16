@@ -1,116 +1,81 @@
-# 👋 Hi, I'm Shaun Mia
+![Profile Views](https://komarev.com/ghpvc/?username=shaun-mia&label=Profile%20Views&color=0e75b6&style=flat)
+![GitHub Stars](https://img.shields.io/github/stars/shaun-mia?color=ffd700&style=flat&logo=github)
 
-**Business Analyst | Data Analyst | AI Enthusiast**  
-📍 Dhaka, Bangladesh
+<h2 align="left">Hi, I'm Shaun Mia 👋</h2>
+<h4 align="left">Business Analyst | Data Analyst | AI Enthusiast</h4>
 
-Motivated **Business Analyst** passionate about **data-driven decision-making**, **process optimization**, and turning complex data into actionable insights.  
-Currently working at **CMED Health Ltd**, where I support strategic initiatives by analyzing business requirements and delivering impactful data solutions.
-
----
-
-## 🧠 About Me
-
-- 🎯 Business Analyst at **CMED Health Ltd**
-- 🎓 B.Sc. in Computer Science & Engineering
-- 📊 Experienced with **Power BI, Excel, SQL, Python**
-- 🔍 Strong interest in **Analytics, BI, and AI-driven solutions**
-- 🌱 Continuously learning **Machine Learning, DAX, and Advanced Analytics**
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=shaun-mia&show_icons=true&count_private=true&theme=dracula&hide_border=false"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaun-mia&layout=compact&theme=dracula&hide_border=false"/>
+</div>
 
 ---
 
-## 🛠 Skills & Tools
+### 👨‍💻 About Me
 
-### Programming
-- Python, SQL  
-- C, C++  
-- HTML, CSS  
+I’m a **Business Analyst at CMED Health Ltd** with a background in **Computer Science & Engineering**.  
+I work with **Power BI, Excel, SQL, and Python** to analyze business requirements, build dashboards, and support data-driven decision-making.
 
-### Analytics & BI Tools
-- Power BI  
-- Excel & Google Sheets  
-- Power Query  
-- Tableau  
-- AI Tools  
-
-### Databases
-- MySQL  
-- PostgreSQL  
-- Microsoft SQL Server  
-
-### Soft Skills
-- Analytical Thinking  
-- Problem Solving  
-- Time Management  
-- Team Collaboration  
-- Quick Learner  
+- 📊 Focused on analytics, BI, and process optimization  
+- 🧠 Interested in AI & Machine Learning  
+- 🎯 Open to Data Analyst & BI opportunities  
 
 ---
 
-## 💼 Experience
+### 🛠 Skills
 
-### **Business Analyst** — CMED Health Ltd  
-*Dec 2025 – Present*
-- Gather and document business requirements  
-- Analyze data using Power BI, SQL, and Excel  
-- Build reports and dashboards to support decision-making  
-- Assist in process optimization and strategic initiatives  
-
-### **Data Analyst** — RO Mart  
-*Dec 2024 – Nov 2025*
-- Cleaned, transformed, and analyzed business data  
-- Built automated dashboards and KPI reports  
-- Collaborated with sales and operations teams  
-
-### **Associate** — Acote Group  
-*Jun 2023 – Dec 2024*
-- Processed and annotated large datasets  
-- Ensured data quality and project compliance  
-- Supported ML and data-driven projects  
+**Programming:** Python, SQL, C, C++, Java  
+**Web:** HTML, CSS  
+**Analytics Tools:** Power BI, Excel, Power Query, Tableau  
+**Databases:** MySQL, PostgreSQL, MS SQL Server  
+**Soft Skills:** Analytical Thinking, Problem Solving, Team Collaboration  
 
 ---
 
-## 🎓 Education
+### 💼 Experience & Education
 
-**B.Sc. in Computer Science & Engineering**  
-Daffodil International University  
-*2020 – 2024 | CGPA: 3.08*
-
----
-
-## 📜 Training & Certifications (Highlights)
-
-- Professional Certificate in Business Analytics – UK  
-- Data Analyst Job Ready Bootcamp  
-- Data Science & Machine Learning Career Path  
-- 3rd ELC – UNISSULA, Indonesia  
-- Microsoft Power BI & Analytics Certifications  
+- 🎓 **B.Sc. in Computer Science & Engineering** — DIU (2024)  
+- 🧑‍💼 **Business Analyst** — CMED Health Ltd (Present)  
+- 📈 **Data Analyst** — RO Mart  
+- 🧪 **Research:** Mango Leaf Disease Detection using CNN  
+- 🌍 **Certified:** 3rd ELC — UNISSULA, Indonesia  
 
 ---
 
-## 🧩 Competitive Programming
+### 📁 Projects & Articles
 
-- 🟢 Beecrowd: `462659`  
-- 🟠 LeetCode: `shaunmia`  
-- 🔵 Codeforces: `shaunmia`  
-- 🟣 HackerRank: `shaunmia`  
-
-Solved **200+ problems** in DSA, OOP, and algorithms.
-
----
-
-## 📁 Projects & Articles
-
-- 🌐 Portfolio: https://shaun-mia.netlify.app  
 - 📂 Projects: https://shaun-mia.netlify.app/projects  
 - 📝 Articles: https://shaun-mia.netlify.app/articles  
+- ✒️ Medium: https://medium.com/@shaunmia  
 
 ---
 
-## 📬 Contact
+### 🎓 Certifications
 
-- 📧 shaun.mia@cmedhealth.com  
-- 📧 shaunmia.sm@gmail.com   
-- 💼 LinkedIn: https://www.linkedin.com/in/shaun-mia/
+📄 https://drive.google.com/drive/folders/1998P5HEAd6WtCzjhyZpVwUyAGbHH76H-
+
 ---
 
-© 2025 Shaun Mia. All rights reserved.
+### 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=shaun-mia&theme=dracula" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app?username=shaun-mia&theme=dracula&row=1&column=6" height="150"/>
+</div>
+
+---
+
+### 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaun-mia/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=firefox&logoColor=white)](https://shaun-mia.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shaun.mia@cmedhealth.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@shauns_data_diaries)
+
+---
+
+### 📈 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaun-mia&theme=react&area=true" height="300"/>
+</div>
