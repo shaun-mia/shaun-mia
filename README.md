@@ -4,6 +4,7 @@
 <h2 align="left">Hi, I'm Shaun Mia! 👋 A passionate Data Analyst & AI Enthusiast.</h2>
 
 ###
+
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
 <!-- GitHub Stats Card -->
@@ -29,28 +30,33 @@ I'm a **Data Analyst** and **AI Enthusiast** with a Bachelor's Degree in Compute
 ### Skills
 
 #### Programming  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
 #### Web  
+
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 #### Tools  
+
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![AI Tools](https://img.shields.io/badge/-AI%20Tools-5D3FD3?style=flat&logo=artificial-intelligence&logoColor=white)
 
 #### Soft Skills  
+
 ⏳ Time Management  
 🔍 Problem Solving  
 🔄 Adaptability  
 🤝 Team Collaboration
 
 #### Additional Skills  
+
 - Data Statistics  
 - Analytical Thinking
 
@@ -69,22 +75,27 @@ I'm a **Data Analyst** and **AI Enthusiast** with a Bachelor's Degree in Compute
 ---
 
 ### 📁 View Projects  
+
 Explore my interactive dashboards and case studies:  
 📂 [View Projects](https://shaun-mia.netlify.app/projects)
 
 ---
 
 ### 📄 View Articles  
+
 Check out my latest writings on data and analytics:  
 📝 [Portfolio Articles](https://shaun-mia.netlify.app/articles)  
 ✒️ [Medium Blog](https://medium.com/@shaunmia)
 
 ---
+
 ### 🎓 Professional Training & Certification  
+
 Browse my certifications and training records:  
 📄 [View Certifications](https://drive.google.com/drive/folders/1998P5HEAd6WtCzjhyZpVwUyAGbHH76H-?usp=drive_link)
 
 ---
+
 ### 🥇 Achievements
 
 <div align="center">
@@ -94,17 +105,14 @@ Browse my certifications and training records:
 
 ---
 
-### Let's Connect!
+### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaun-mia/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=firefox&logoColor=white)](https://shaun-mia.netlify.app/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shaunmia.cse@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shaun.mia@cmedhealth.com)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@shauns_data_diaries)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/shaun.mia.official/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/shaunmia.cse)
-
-
-
 
 ---
 
