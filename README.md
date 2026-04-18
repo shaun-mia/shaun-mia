@@ -83,9 +83,6 @@ Developed a deep learning model for agricultural classification tasks.
 ### 🚀 Projects
 Explore my portfolio projects at: **[shaun-mia.netlify.app/projects](https://shaun-mia.netlify.app/projects)**
 
-### 📝 Articles & Insights
-Read my latest articles on: **[shaun-mia.netlify.app/articles](https://shaun-mia.netlify.app/articles)**
-
 ### 💻 Medium
 Check out my technical blogs: **[@shaunmia on Medium](https://medium.com/@shaunmia)**
 
