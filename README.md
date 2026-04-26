@@ -81,7 +81,7 @@ Developed a deep learning model for agricultural classification tasks.
 ## 📂 My Work
 
 ### 🚀 Projects
-Explore my portfolio projects at: **[shaun-mia.netlify.app/projects](https://shaun-mia.netlify.app/projects)**
+Explore my portfolio projects at: **[shaun-mia.netlify.app/projects](https://shaun-mia.netlify.app/#projects)**
 
 ### 💻 Medium
 Check out my technical blogs: **[@shaunmia on Medium](https://medium.com/@shaunmia)**
@@ -152,7 +152,3 @@ I'd love to collaborate, discuss data insights, or help with your analytics need
   <img src="https://komarev.com/ghpvc/?username=shaun-mia&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
   <p><strong>Thanks for visiting! Feel free to check out my repositories and get in touch. 🚀</strong></p>
 </div>
-
----
-
-*Last Updated: 2024 | Built with passion for data and analytics*
