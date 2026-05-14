@@ -149,6 +149,13 @@ I'd love to collaborate, discuss data insights, or help with your analytics need
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shaun-mia&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
-  <p><strong>Thanks for visiting! Feel free to check out my repositories and get in touch. 🚀</strong></p>
+  
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shaun-mia.shaun-mia&left_color=black&right_color=0e75b6" alt="Visitor Count" />
+
+  <p>
+    <strong>
+      Thanks for visiting! Feel free to check out my repositories and get in touch. 🚀
+    </strong>
+  </p>
+
 </div>
